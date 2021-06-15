@@ -229,6 +229,6 @@ These methods are effective to use when there is collinearity in your input valu
 ## Implementation
 
 
-**TBD**
+Refer to the [Notebook](https://github.com/mittalsharad/ML_Algorithms/blob/main/Linear%20Regression/Linear_Regression.ipynb)
 
 
