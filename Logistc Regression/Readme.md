@@ -121,3 +121,7 @@ Another disadvantage of the logistic regression model is that the interpretation
 Logistic regression can suffer from complete separation. If there is a feature that would perfectly separate the two classes, the logistic regression model can no longer be trained. This is because the weight for that feature would not converge, because the optimal weight would be infinite. This is really a bit unfortunate, because such a feature is really useful. But you do not need machine learning if you have a simple rule that separates both classes. The problem of complete separation can be solved by introducing penalization of the weights or defining a prior probability distribution of weights.
 
 On the good side, the logistic regression model is not only a classification model, but also gives you probabilities. This is a big advantage over models that can only provide the final classification. Knowing that an instance has a 99% probability for a class compared to 51% makes a big difference.
+
+## Implementation
+
+Refer to [Notebook](https://github.com/mittalsharad/ML_Algorithms/blob/main/Logistc%20Regression/Logistic%20Regression.ipynb)
